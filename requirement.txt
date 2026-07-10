@@ -1,0 +1,13 @@
+This file should contain only package names and versions. 
+
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.13.1
+matplotlib==3.9.2
+scikit-learn==1.5.2
+statsmodels==0.14.4
+xgboost==2.1.1
+shap==0.46.0
+rpy2==3.5.17
+openpyxl==3.1.5
+jupyter==1.1.1
