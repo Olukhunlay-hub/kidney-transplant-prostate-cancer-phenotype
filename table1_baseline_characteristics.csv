@@ -1,0 +1,58 @@
+Characteristic,Overall,De novo,Recurrent,P value,SMD
+Immunosuppression,,,,,
+Maintenance: CNI + MMF,184 (27.9%),176 (28.3%),8 (21.6%),0.493,0.153
+Maintenance: mTOR + MMF,0 (0.0%),0 (0.0%),0 (0.0%),,0.000
+Maintenance: CNI + MMF + steroids,476 (72.1%),447 (71.7%),29 (78.4%),0.493,0.153
+Maintenance: mTOR + MMF + steroids,0 (0.0%),0 (0.0%),0 (0.0%),,0.000
+Induction: none,37 (5.6%),37 (5.9%),0 (0.0%),0.257,0.350
+Induction: thymoglobulin,371 (56.2%),354 (56.8%),17 (45.9%),0.261,0.218
+Induction: alemtuzumab,81 (12.3%),76 (12.2%),5 (13.5%),1.000,0.039
+Induction: IL-2R antagonist,161 (24.4%),146 (23.4%),15 (40.5%),0.031,0.367
+Induction:  ATG + IL-2R antagonist,10 (1.5%),10 (1.6%),0 (0.0%),1.000,0.180
+Recipient factors,,,,,
+"Recipient age, years","63.0 (57.8, 68.0)","63.0 (57.0, 67.0)","67.0 (64.0, 72.0)",<0.001,0.802
+Male recipient,660 (100.0%),623 (100.0%),37 (100.0%),,0.000
+Recipient race: White,278 (42.1%),260 (41.7%),18 (48.6%),0.512,0.139
+Recipient race: Black,282 (42.7%),270 (43.3%),12 (32.4%),0.258,0.225
+Recipient ethnicity: Hispanic,74 (11.2%),67 (10.8%),7 (18.9%),0.207,0.230
+Recipient race: Asian,23 (3.5%),23 (3.7%),0 (0.0%),0.633,0.274
+Recipient BMI,"28.2 (25.3, 31.5)","28.3 (25.4, 31.7)","26.5 (25.1, 29.7)",0.028,0.402
+Recipient diabetes,273 (41.4%),260 (41.7%),13 (35.1%),0.535,0.136
+Peripheral vascular disease,80 (12.1%),74 (11.9%),6 (16.2%),0.599,0.125
+Functional status: 10-40: Disabled/severely impaired,12 (1.8%),12 (1.9%),0 (0.0%),0.467,0.197
+Functional status: 50-60: Requires assistance,104 (15.8%),100 (16.1%),4 (10.8%),,0.154
+"Functional status: 70: Self-care, unable to work normally",168 (25.5%),159 (25.5%),9 (24.3%),,0.028
+Functional status: 80-100: Independent/near-independent,354 (53.6%),330 (53.0%),24 (64.9%),,0.242
+Functional status: Unknown,22 (3.3%),22 (3.5%),0 (0.0%),,0.268
+Serum albumin,"4.0 (3.7, 4.3)","4.0 (3.7, 4.3)","4.1 (3.7, 4.3)",0.754,0.078
+cPRA,"0.0 (0.0, 4.5)","0.0 (0.0, 4.5)","0.0 (0.0, 0.0)",0.111,0.292
+Retransplantation,50 (7.6%),50 (8.0%),0 (0.0%),0.102,0.409
+On dialysis at transplant,486 (73.6%),457 (73.4%),29 (78.4%),0.630,0.117
+"Wait time, days","463.5 (143.5, 1125.5)","460.0 (140.5, 1128.0)","617.0 (176.0, 1118.0)",0.863,0.014
+Recipient creatinine,"7.9 (5.4, 10.5)","7.9 (5.4, 10.5)","7.3 (5.3, 9.1)",0.448,0.159
+Donor and transplant factors,,,,,
+"Donor age, years","46.0 (33.8, 55.0)","46.0 (33.0, 55.0)","53.0 (44.0, 58.0)",0.008,0.490
+Male donor,359 (54.4%),340 (54.6%),19 (51.4%),0.832,0.065
+Donor race: White,474 (71.8%),449 (72.1%),25 (67.6%),0.687,0.098
+Donor race: Black,75 (11.4%),72 (11.6%),3 (8.1%),0.789,0.116
+Donor ethnicity: Hispanic,88 (13.3%),81 (13.0%),7 (18.9%),0.435,0.162
+Donor race: Asian,17 (2.6%),15 (2.4%),2 (5.4%),0.246,0.155
+Donor diabetes,33 (5.0%),31 (5.0%),2 (5.4%),0.707,0.019
+Donor hypertension,163 (24.7%),153 (24.6%),10 (27.0%),0.887,0.056
+Donor BMI,"27.0 (23.9, 30.9)","27.0 (23.8, 30.8)","27.3 (24.4, 32.0)",0.415,0.029
+Donor creatinine,"0.9 (0.7, 1.3)","0.9 (0.7, 1.3)","1.0 (0.8, 1.1)",0.555,0.008
+KDPI,"0.4 (0.2, 0.6)","0.4 (0.2, 0.6)","0.5 (0.3, 0.6)",0.484,0.115
+Donation after circulatory death,114 (17.3%),108 (17.3%),6 (16.2%),1.000,0.030
+Expanded criteria donor,83 (17.7%),78 (17.6%),5 (20.0%),0.972,0.061
+"Cold ischemia time, hours","14.3 (4.7, 21.0)","14.3 (4.8, 21.2)","14.4 (1.5, 19.7)",0.669,0.017
+Donor type: Deceased,468 (70.9%),443 (71.1%),25 (67.6%),0.784,0.077
+Donor type: Living,192 (29.1%),180 (28.9%),12 (32.4%),,0.077
+Allocation: local,489 (74.1%),462 (74.2%),27 (73.0%),1.000,0.027
+Allocation: regional,80 (12.1%),74 (11.9%),6 (16.2%),0.599,0.125
+Allocation: national,91 (13.8%),87 (14.0%),4 (10.8%),0.806,0.096
+Transplant era: 2015–2019,477 (72.3%),454 (72.9%),23 (62.2%),0.221,0.229
+Transplant era: 2020–2024,183 (27.7%),169 (27.1%),14 (37.8%),,0.229
+Immunologic and injury variables,,,,,
+HLA mismatch,"4.0 (3.0, 5.0)","4.0 (3.0, 5.0)","4.0 (4.0, 5.0)",0.893,0.121
+Prior malignancy,,,,,
+Pretransplant malignancy,38 (5.8%),1 (0.2%),37 (100.0%),<0.001,1.997
