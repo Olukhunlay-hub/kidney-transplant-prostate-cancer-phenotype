@@ -36,6 +36,12 @@ Researchers may request access directly from the Organ Procurement and Transplan
 
 This repository contains code only and does not include patient-level data.
 
+## Software
+
+The analyses were performed primarily in Python (version 3.12). Firth penalized logistic regression was implemented in R using the `logistf` package through the `rpy2` interface.
+
+The computational environment and required Python packages are provided in the `requirements.txt` file.
+
 ## Reproducibility
 
 Researchers with approved access to the relevant OPTN/UNOS data can use the notebook in this repository to reproduce the prostate cancer analytic cohort, preprocessing steps, statistical analyses, machine learning analyses, tables, and figures.
